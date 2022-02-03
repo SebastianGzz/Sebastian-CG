@@ -17,12 +17,12 @@ const sebastian = {
     code: ["html", "css", "javascript"],
     frontEnd: {
       libraries: {
-        css: ["bootstrap"],
+        css: ["tailwind"],
         js: ["styled-components"],
       },
       framework: {
         css: ["sass"],
-        js: ["react", "vue"],
+        js: ["react"],
       },
     },
     design: ["figma"],
